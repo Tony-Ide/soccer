@@ -45,8 +45,8 @@ VORONOI_HEATMAP_BASE = "output/voronoi_heatmap"
 PDF_REPORT_PATH = "output/stream_test_report.pdf"
 
 # === VIDEO FILE CONFIG ===
-LEFT_VIDEO_PATH = r"C:\Users\tonyi\OneDrive\Documents\compvision\input\test2.mp4"  # Left camera video
-RIGHT_VIDEO_PATH = r"C:\Users\tonyi\OneDrive\Documents\compvision\input\righttest.mp4"  # Right camera video
+LEFT_VIDEO_PATH = r"input/test4.mp4"  # Left camera video
+RIGHT_VIDEO_PATH = r"input/righttest.mp4"  # Right camera video
 MAX_CONSECUTIVE_FAILURES = 10
 
 # === LOAD MODELS ===
